@@ -1,0 +1,15 @@
+.header{
+    background-color: yellowgreen;
+    display: flex;
+ justify-content: space-between;
+}
+.menu{
+    background-color: violet;
+    display: flex;
+    justify-content: space-evenly;
+}
+.school{
+    background-color: turquoise;
+    display: flex;
+    justify-content: centre;
+}
